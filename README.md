@@ -13,7 +13,7 @@
               fitness: [ true, "health-nut 🤪" ]
 ###  },
 
-### currentGoal: "To be a full-stack in Web2 + Web3"
+### currentGoal: "To be a full-stack in Web2 + Web3",
            
  ### languages: [ "HTML", "CSS", "SASS", "JS" ],
   
@@ -41,7 +41,7 @@
                   "some of the code maybe be buggy or incompleted 😜",
                   "Some of the code may have deprecations 😫",
                   "eager to learn more 🤩"
-### ],
+### ]
 
  }  
  
