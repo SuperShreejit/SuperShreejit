@@ -37,8 +37,8 @@
 
  }  
           # Socials 
-        twitter: [Twitter]("https://www.linkedin.com/in/shreejit-pal/")
-        Linkdin: [LinkdIn]("https://twitter.com/supershreejit")
-        codepen: [Codepen]("https://codepen.io/supershreejit")
+        twitter: [Twitter]("https://www.linkedin.com/in/shreejit-pal/")\n
+        Linkdin: [LinkdIn]("https://twitter.com/supershreejit")\n
+        codepen: [Codepen]("https://codepen.io/supershreejit")\n
  
  ### Disclaimer = "Most of the repos contains forked code made during learning phase in tutorials"
