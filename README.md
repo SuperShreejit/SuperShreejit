@@ -30,13 +30,12 @@
 
 ### socials : {
 
-                twitter: "https://www.linkedin.com/in/shreejit-pal/",
-                facebook: "https://www.facebook.com/Super.Shreejit",
-                Linkdin: "https://twitter.com/supershreejit",
-                Instagram: "https://www.instagram.com/supershreejit/"
+                twitter: [Twitter]("https://www.linkedin.com/in/shreejit-pal/"),
+                Linkdin: [LinkdIn]("https://twitter.com/supershreejit"),
+                codepen: [Codepen]("https://codepen.io/supershreejit")
 ### },
 
-### helpWanted: [ 
+### helpWanted: [
                   "need suggestions to improve 😎",
                   "some of the code maybe be buggy or incompleted 😜",
                   "Some of the code may have deprecations 😫",
