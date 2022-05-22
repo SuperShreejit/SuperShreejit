@@ -28,13 +28,6 @@
             web3: [ ]
 ### },
 
-### socials : {
-
-                twitter: [Twitter]("https://www.linkedin.com/in/shreejit-pal/"),
-                Linkdin: [LinkdIn]("https://twitter.com/supershreejit"),
-                codepen: [Codepen]("https://codepen.io/supershreejit")
-### },
-
 ### helpWanted: [
                   "need suggestions to improve 😎",
                   "some of the code maybe be buggy or incompleted 😜",
@@ -43,5 +36,8 @@
 ### ]
 
  }  
+              ##  twitter: [Twitter]("https://www.linkedin.com/in/shreejit-pal/"),
+              ##  Linkdin: [LinkdIn]("https://twitter.com/supershreejit"),
+              ##  codepen: [Codepen]("https://codepen.io/supershreejit")
  
  ### Disclaimer = "Most of the repos contains forked code made during learning phase in tutorials"
