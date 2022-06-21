@@ -15,9 +15,9 @@
 
 ### currentGoal: "To be a full-stack in Web2 + Web3",
            
- ### languages: [ "HTML", "CSS", "SASS", "JS" ],
+ ### languages: [ "HTML", "CSS/SASS", "JS/Typescript" ],
   
- ###  librariesOrFrameworks: [ "Node.js", "Express.js", "EJS", "React" ],
+ ###  librariesOrFrameworks: [ "Node", "Express", "EJS", "React" ],
   
  ### Stacks: {
   
@@ -26,14 +26,7 @@
             Web2: [ "MERN", "learning🌱" ],
             
             web3: [ ]
-### },
-
-### helpWanted: [
-                  "need suggestions to improve 😎",
-                  "some of the code maybe be buggy or incompleted 😜",
-                  "Some of the code may have deprecations 😫",
-                  "eager to learn more 🤩"
-### ]
+### }
 
  }  
  
@@ -45,4 +38,4 @@ Linkdin: [LinkdIn]("https://twitter.com/supershreejit")
 
 codepen: [Codepen]("https://codepen.io/supershreejit")
  
- ### Disclaimer = "Most of the repos contains forked code made during learning phase in tutorials"
+ ### Disclaimer = "Some of the repos contains forked code made during learning phase in tutorials"
